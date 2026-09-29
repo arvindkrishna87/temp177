@@ -1,5 +1,5 @@
 """
-Configuration file for MIL training
+Configuration file for MIL training!
 """
 import os
 from typing import Tuple
